@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+     <head>
+         <title> HTML Cheat Sheet</title>
+     </head>
+     <body>
+        <!-- Headings-->
+        <h1>Heading One</h1>
+        <h2>Heading Two</h2>
+        <h3>Heading Three</h3>
+        <h2>Heading Four</h4>
+        <h2>Heading Five</h5>
+        <h2>Heading six</h6>
+     
+        <!-- Paragraph-->
+        <p>
+         t was just a burger. Why couldn't she understand that? She knew he'd completely changed his life around her eating habits, so why couldn't she give him a break this one time? She wasn't even supposed to have found out. Yes, he had promised her and yes, he had broken that promise, but still in his mind, all it had been was just a burger.
+        </p>
+        <p>
+         t was just a burger. Why couldn't she understand that? She knew he'd completely changed his life around her eating habits, so why couldn't she give him a break this one time? She wasn't even supposed to have found out. Yes, he had promised her and yes, he had broken that promise, but still in his mind, all it had been was just a burger.
+        </p>
+        <p>
+         
+     </body>
+</html>
